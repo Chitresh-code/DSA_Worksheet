@@ -6,6 +6,8 @@
 [![ISSUES](https://img.shields.io/github/issues/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/issues)
 [![CONTRIBUTORS](https://img.shields.io/github/contributors/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/graphs/contributors)
 [![FORKS](https://img.shields.io/github/forks/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/network/members)
+![Merged Pull Requests](https://img.shields.io/github/issues-pr-closed/Chitresh-code/DSA_Worksheet?color=success)
+![Active Pull Requests](https://img.shields.io/github/issues-pr/Chitresh-code/DSA_Worksheet?color=blue)
 
 
 ## Introduction
