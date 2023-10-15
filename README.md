@@ -52,10 +52,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://lh3.googleusercontent.com/a/ACg8ocJmT-5SrkJFTrkm6TjbwXNjqIwLpHXnAsOHjq_oxM-F02A2=s288-c-no" width="100px;" alt="Ali Solanki"/>
+                <a href="https://github.com/Chitresh-code">
+                    <img src="https://lh3.googleusercontent.com/a/ACg8ocJmT-5SrkJFTrkm6TjbwXNjqIwLpHXnAsOHjq_oxM-F02A2=s288-c-no" width="100px;" alt="Chitresh Gyanani"/>
                     <br />
                     <sub><b>Chitresh Gyanani</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/lilmistake">
+                    <img src="https://avatars.githubusercontent.com/u/61899816?v=4" width="100px;" alt="lilmistake"/>
+                    <br />
+                    <sub><b>lilmistake</b></sub>
                 </a> 
             </td>
         </tr>
