@@ -2,10 +2,10 @@
 
 
 
-[![Stars](https://img.shields.io/github/Stars/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/stargazers)
-[![Issues](https://img.shields.io/github/Issues/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/issues)
-[![Contributors](https://img.shields.io/github/Contributors/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/graphs/contributors)
-[![Forks](https://img.shields.io/github/Forks/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/network/members)
+[![STARS](https://img.shields.io/github/stars/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/stargazers)
+[![ISSUES](https://img.shields.io/github/issues/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/issues)
+[![CONTRIBUTORS](https://img.shields.io/github/contributors/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/graphs/contributors)
+[![FORKS](https://img.shields.io/github/forks/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/network/members)
 
 
 ## Introduction
