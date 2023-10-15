@@ -6,7 +6,7 @@
 [![Issues](https://img.shields.io/github/issues/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/issues)
 [![Contributors](https://img.shields.io/github/contributors/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/network/members)
-[Linkedin](https://www.linkedin.com/in/chitresh-gyanani-9595a3215/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-blue)](https://www.linkedin.com/in/chitresh-gyanani-9595a3215/)
 
 
 ## Introduction
