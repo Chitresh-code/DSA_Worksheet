@@ -46,6 +46,25 @@ We're looking for DSA enthusiasts to contribute to this repository by creating a
 - Make sure you submit your code in the correct language directory.
 - Feel free to create multiple worksheets in your PR.
 - Make sure your code is clean, follows best practices, and is properly formatted.
+- Finally, add your name in the contributors in "README.md"
+
+## Add your name in the Contributors
+
+1. Edit the `README.md` file using any text editor, VScode for example.
+
+2. Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
+
+    ```
+    <td align="center">
+        <a href="your_github_profile_url">
+            <img src="=your_github_profile_picture" width="100px;" alt="your_name"/>
+            <br />
+            <sub><b>your_name</b></sub>
+        </a>
+    </td>
+    ```
+
+3. Now save your changes
 
 ## Getting Help
 
