@@ -19,7 +19,7 @@ We're looking for DSA enthusiasts to contribute to this repository by creating a
 3. **Create a new branch:** Make a new branch for your worksheet:
 
    ```sh
-   git checkout -b new-dsa-worksheet
+   git checkout -b your_name-dsa-worksheet
    ```
 
 4. **Add your worksheet:** Create a new file in the folder of your selected programming language and add your DSA problem.
@@ -33,7 +33,7 @@ We're looking for DSA enthusiasts to contribute to this repository by creating a
 6. **Push to your fork:** Push your changes to your GitHub fork:
 
    ```sh
-   git push origin new-dsa-worksheet
+   git push origin your_name-dsa-worksheet
    ```
 
 7. **Create a Pull Request (PR):** Head to the original repository on GitHub and create a new PR. Our maintainers will review your PR and provide feedback.
