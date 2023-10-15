@@ -13,7 +13,7 @@ We're looking for DSA enthusiasts to contribute to this repository by creating a
 2. **Clone your fork:** Use `git clone` to clone your fork to your local machine:
 
    ```sh
-   git clone https://github.com/Chitresh-code/DSA_Worksheet.git
+   git clone <FORKED REPOSITORY LINK>
    ```
 
 3. **Create a new branch:** Make a new branch for your worksheet:
