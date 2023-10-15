@@ -40,11 +40,11 @@ We're looking for DSA enthusiasts to contribute to this repository by creating a
 
 ## Guidelines for Contributions
 
-- Please ensure that your DSA worksheet is clear and well-documented.
-- Create a separate folder for your solution in the "DSA_Worksheet" directory and place your worksheet file there.
-- In the "DSA_Worksheet" directory there are multiple directories for certain coding languages.
+- Please ensure that your DSA solution is clear and well-documented.
+- Create a separate folder for your solution in the "DSA_Codesheet" directory and place your worksheet file there.
+- In the "DSA_Codesheet" directory there are multiple directories for certain coding languages.
 - Make sure you submit your code in the correct language directory.
-- Feel free to create multiple worksheets in your PR.
+- Feel free to create multiple solutions in your PR.
 - Make sure your code is clean, follows best practices, and is properly formatted.
 - Finally, add your name in the contributors in "README.md"
 
