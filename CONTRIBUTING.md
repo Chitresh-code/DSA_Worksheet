@@ -38,6 +38,8 @@ We're looking for DSA enthusiasts to contribute to this repository by creating a
 
 7. **Create a Pull Request (PR):** Head to the original repository on GitHub and create a new PR. Our maintainers will review your PR and provide feedback.
 
+8. **Star this Repository.**
+
 ## Guidelines for Contributions
 
 - Please ensure that your DSA solution is clear and well-documented.
