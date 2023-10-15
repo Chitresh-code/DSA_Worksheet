@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class SelectionSort {
     public static void selectionSort(int[] arr) {
         int n = arr.length;
@@ -19,11 +21,24 @@ public class SelectionSort {
     }
 
     public static void main(String[] args) {
-        int[] arr = {64, 25, 12, 22, 11};
+        Scanner scanner = new Scanner(System.in);
+        
+        int n = scanner.nextInt();
+        
+        int[] arr = new int[n];
+        
+        for (int i = 0; i < n; i++) {
+            arr[i] = scanner.nextInt();
+        }
+        
         selectionSort(arr);
+        
         System.out.println("Sorted array:");
         for (int value : arr) {
             System.out.print(value + " ");
         }
+        
+        // Close the scanner to free up resources
+        scanner.close();
     }
 }
