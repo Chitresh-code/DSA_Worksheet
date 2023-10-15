@@ -18,15 +18,7 @@ def selection_sort(arr):
 
 if __name__ == "__main__":
     try:
-        n = int(input("Enter number of elements in the array: "))
-    except:
-        print("Please enter a valid number")
-
-    arr = []
-    try:
-        for i in range(n):
-            ele = int(input(f"Enter elements for position {i}: "))
-            arr.append(ele)
+        arr = list(map(int, input("Enter values for array: ").split())) 
     except:
         print("Please enter a valid number")
     print(f"Your original array: {arr}")
