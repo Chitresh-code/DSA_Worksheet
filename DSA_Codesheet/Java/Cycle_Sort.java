@@ -12,6 +12,8 @@ public class Cycle_Sort {
         //worst case:O(n)
 
     }
+    //picking up an element and checking if it is at right position or not
+    //when the elements start from 1 then every element should be at index one less
     static int[] C_Sort(int[] nums){
         int i=0;
         while (i<nums.length){
