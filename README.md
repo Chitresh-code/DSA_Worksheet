@@ -93,6 +93,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
                     <sub><b>Faraaz Mahmood</b></sub>
                 </a> 
             </td>
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/gitaditee">
                     <img src="https://avatars.githubusercontent.com/u/119937632?v=4" width="100px;" alt="lilmistake"/>
