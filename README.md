@@ -65,6 +65,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
                     <sub><b>lilmistake</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/lilmistake">
+                    <img src="https://avatars.githubusercontent.com/u/61899816?v=4" width="100px;" alt="lilmistake"/>
+                    <br />
+                    <sub><b>lilmistake</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
