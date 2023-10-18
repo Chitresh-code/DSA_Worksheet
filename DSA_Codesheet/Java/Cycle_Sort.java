@@ -7,23 +7,33 @@ public class Cycle_Sort {
         int[] nums={1,4,2,3};
         System.out.println(Arrays.toString(C_Sort(nums)));
 
-        //use only when number starts from 1 or 0
-        //Time complexity:
-        //worst case:O(n)
+
 
     }
-    //picking up an element and checking if it is at right position or not
-    //when the elements start from 1 then every element should be at index one less
+
     static int[] C_Sort(int[] nums){
-        int i=0;
-        while (i<nums.length){
-            int cindex=nums[i]-1;
-            if(nums[i]!=nums[cindex]){
-                int temp=nums[cindex];
-                nums[cindex]=nums[i];
-                nums[i]=temp;
-            }else{
-                i++;
+        int n = nums.length;
+        for (int i = 0; i < n-1; i++) {
+            int item = nums[i];
+            int pos = i;
+            for (int j = i+1; j < n; j++) {
+                if(nums[j]<item){
+                    pos++;
+                }
+            }
+            int temp = nums[pos];
+            nums[pos] = item;
+            item = temp;
+            while (pos!=i){
+                pos = i;
+                for (int j = i+1; j < n; j++) {
+                    if(nums[j]<item){
+                        pos++;
+                    }
+                }
+                int t = nums[pos];
+                nums[pos] =item;
+                item = t;
             }
         }
         return nums;
