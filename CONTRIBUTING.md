@@ -68,6 +68,22 @@ We're looking for DSA enthusiasts to contribute to this repository by creating a
 
 3. Now save your changes
 
+
+## Create Problem Statements
+If you have a problem statement that you wish to add to this repository, feel free to do so by creating an issue. Make sure you follow the underwritten guidelines: 
+1. __Title Format__: The title should be concise and give a hint about the nature of the problem.
+2. __Problem Description__: copy the raw code of the [issue template](https://github.com/Chitresh-code/DSA_Worksheet/blob/main/ISSUE_TEMPLATE.md) and paste it in the issue description and add the additional requirements.
+3. __Tags/Labels:__ Add relevant tags or labels to help categorize the problem. Every problem must have labels for programming language (Python, C, C++, Java) as well as 1 label for difficulty level (`Level: Easy`, `Level: Medium`, `Level: Hard`). To make the problem elegible for Hacktoberfest, add the `hacktoberfest-2023` label as well.
+4. __General Rules__: 
+
+      1. __Uniqueness__: Before creating an issue, please search the existing issues to avoid duplicates.
+
+      2. __Clarity__: Ensure the problem statement is clear. Ambiguous problem statements can confuse contributors.
+      3. __Stay Updated__: If someone asks a question or needs clarification on your issue, try to respond promptly.
+      4. __Constructive Feedback__: If you're referencing a problem from another platform or book, ensure you're not violating any copyright rules. Always give credit where it's due.
+      5. __No Spoilers__: If you're also providing a solution, please don't post it directly in the issue. We want to give others a chance to solve it. Instead, consider creating a pull request with the solution, or linking to a separate solution discussion.
+
+Note that any issue that doesn't abide by this guideline will be closed immediately.
 ## Getting Help
 
 If you have any questions or need assistance, feel free to open an issue or reach out to our community in the discussion section.
