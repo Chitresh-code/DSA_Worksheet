@@ -32,6 +32,8 @@ For more information about Hacktoberfest, please visit the official website: [Ha
 ## Make Contribution
 [CONTRIBUTING.md](https://github.com/Chitresh-code/DSA_Worksheet/blob/main/CONTRIBUTING.md)
 
+## Create your own Issue
+[Create Issue!](https://github.com/Chitresh-code/DSA_Worksheet/issues/new/choose)
 
 ## Code Of Conduct
 
