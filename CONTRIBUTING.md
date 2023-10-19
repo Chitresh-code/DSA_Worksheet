@@ -39,6 +39,8 @@ We're looking for DSA enthusiasts to contribute to this repository by creating a
 7. **Create a Pull Request (PR):** Head to the original repository on GitHub and create a new PR. Our maintainers will review your PR and provide feedback.
 
 8. **Star this Repository.**
+   
+https://github.com/lilmistake/DSA_Worksheet/assets/61899816/99c98fbb-0d9d-47dc-84d6-9246864d5dcd
 
 ## Guidelines for Contributions
 
