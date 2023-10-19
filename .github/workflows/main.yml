@@ -14,4 +14,3 @@ jobs:
                   readme_path: "README.md"
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
