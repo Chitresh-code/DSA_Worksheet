@@ -37,7 +37,7 @@ Follow the below link to redirect you to the guide on how to make a successful c
 
 ## Create your own Issue
 
-If you wish to create an issue follow the below link and click on DSA Question Template
+If you wish to create an issue follow the below link and click on DSA Question Template.
 <br>
 [Create Issue!](https://github.com/Chitresh-code/DSA_Worksheet/issues/new/choose)
 
