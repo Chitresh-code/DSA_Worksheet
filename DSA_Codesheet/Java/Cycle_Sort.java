@@ -1,41 +1,33 @@
 package DSA_Worksheet.DSA_Codesheet.Java;
 
 import java.util.Arrays;
+import java.util.Stack;
 
 public class Cycle_Sort {
     public static void main(String[] args) {
-        int[] nums={1,4,2,3};
-        System.out.println(Arrays.toString(C_Sort(nums)));
-
-
+        long[] nums = {3,1,2,5,3};
+        long n = nums.length;
+        dupmis(nums,n);
 
     }
-
-    static int[] C_Sort(int[] nums){
-        int n = nums.length;
-        for (int i = 0; i < n-1; i++) {
-            int item = nums[i];
-            int pos = i;
-            for (int j = i+1; j < n; j++) {
-                if(nums[j]<item){
-                    pos++;
-                }
-            }
-            int temp = nums[pos];
-            nums[pos] = item;
-            item = temp;
-            while (pos!=i){
-                pos = i;
-                for (int j = i+1; j < n; j++) {
-                    if(nums[j]<item){
-                        pos++;
-                    }
-                }
-                int t = nums[pos];
-                nums[pos] =item;
-                item = t;
-            }
+ static  void dupmis(long[] arr,long n){
+        long sum = (n*(n+1))/2;
+        long squaresum = (n*(n+1)*((2*n+1)))/6;
+        long s1 = 0;    //sum of array elements
+        long s2 = 0;    //sum of square of array elements
+        for (int i = 0; i < n; i++) {
+            s1 += arr[i];
+            s2 += (arr[i]*arr[i]);
         }
-        return nums;
+        long val1 = s1-sum;   //x-y
+        long val2 = s2-squaresum;
+        val2 = val2/val1;
+        long x = (val1+val2)/2;
+        long y = x-val1;
+        System.out.print(x+" ");
+        System.out.print(y);
     }
+
+
+
 }
