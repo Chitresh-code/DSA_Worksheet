@@ -70,9 +70,15 @@ We're looking for DSA enthusiasts to contribute to this repository by creating a
 
 
 ## Create Problem Statements
-If you have a problem statement that you wish to add to this repository, feel free to do so by creating an issue. Make sure you follow the underwritten guidelines: 
+If you have a problem statement that you wish to add to this repository, feel free to do so by creating an issue. There is already a template made for DSA Questions named DSA Questions Template, follow these steps to create an issue:
+- Click on Issues
+- Click on New Issues
+- Click "Get Started" on DSA Question Template
+- Make necessary changes
+- Submit the issue.
+If you want to make a new issue from scratch then make sure you follow the underwritten guidelines: 
 1. __Title Format__: The title should be concise and give a hint about the nature of the problem.
-2. __Problem Description__: copy the raw code of the [issue template](https://github.com/Chitresh-code/DSA_Worksheet/blob/main/ISSUE_TEMPLATE.md) and paste it in the issue description and add the additional requirements.
+2. __Problem Description__: copy the raw code of the [issue template](https://github.com/Chitresh-code/DSA_Worksheet/blob/main/.github/ISSUE_TEMPLATE/dsa-question-template.md) and paste it in the issue description and add the additional requirements.
 3. __Tags/Labels:__ Add relevant tags or labels to help categorize the problem. Every problem must have labels for programming language (Python, C, C++, Java) as well as 1 label for difficulty level (`Level: Easy`, `Level: Medium`, `Level: Hard`). To make the problem elegible for Hacktoberfest, add the `hacktoberfest-2023` label as well.
 4. __General Rules__: 
 
