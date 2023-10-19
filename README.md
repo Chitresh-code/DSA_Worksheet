@@ -55,60 +55,7 @@ Click Here [CODE_OF_CONDUCT](https://www.contributor-covenant.org/)
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Our ♥️ Contributors
+## Contributors
 
-<table>
-    <tbody>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/Chitresh-code">
-                    <img src="https://lh3.googleusercontent.com/a/ACg8ocJmT-5SrkJFTrkm6TjbwXNjqIwLpHXnAsOHjq_oxM-F02A2=s288-c-no" width="100px;" alt="Chitresh Gyanani"/>
-                    <br />
-                    <sub><b>Chitresh Gyanani</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/lilmistake">
-                    <img src="https://avatars.githubusercontent.com/u/61899816?v=4" width="100px;" alt="lilmistake"/>
-                    <br />
-                    <sub><b>lilmistake</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/UdaySagar-Git">
-                    <img src="https://avatars.githubusercontent.com/u/111575806?v=4" width="100px;" alt="lilmistake"/>
-                    <br />
-                    <sub><b>Uday Sagar</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/AdityaDKale">
-                    <img src="https://avatars.githubusercontent.com/u/115162556?v=4" width="100px;" alt="lilmistake"/>
-                    <br />
-                    <sub><b>Aditya Kale</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/vidip21">
-                    <img src="https://avatars.githubusercontent.com/u/76873657?v=4" width="100px;" alt="lilmistake"/>
-                    <br />
-                    <sub><b>vidip21</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/Faraaz22">
-                    <img src="https://avatars.githubusercontent.com/u/130041060?v=4" width="100px;" alt="lilmistake"/>
-                    <br />
-                    <sub><b>Faraaz Mahmood</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/gitaditee">
-                    <img src="https://avatars.githubusercontent.com/u/119937632?v=4" width="100px;" alt="lilmistake"/>
-                    <br />
-                    <sub><b>Aditee</b></sub>
-                </a> 
-            </td>
-        </tr>
-    </tbody>
-</table>
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
