@@ -58,5 +58,64 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contributors
 
 <!-- readme: collaborators,contributors -start -->
-
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/lilmistake">
+            <img src="https://avatars.githubusercontent.com/u/61899816?v=4" width="100;" alt="lilmistake"/>
+            <br />
+            <sub><b>Rohit</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Chitresh-code">
+            <img src="https://avatars.githubusercontent.com/u/129378666?v=4" width="100;" alt="Chitresh-code"/>
+            <br />
+            <sub><b>Chitresh Gyanani</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/yanurag1414">
+            <img src="https://avatars.githubusercontent.com/u/121807496?v=4" width="100;" alt="yanurag1414"/>
+            <br />
+            <sub><b>ANURAG YADAV</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/gitaditee">
+            <img src="https://avatars.githubusercontent.com/u/119937632?v=4" width="100;" alt="gitaditee"/>
+            <br />
+            <sub><b>Aditee </b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/AdityaDKale">
+            <img src="https://avatars.githubusercontent.com/u/115162556?v=4" width="100;" alt="AdityaDKale"/>
+            <br />
+            <sub><b>Aditya Kale</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/vidip21">
+            <img src="https://avatars.githubusercontent.com/u/76873657?v=4" width="100;" alt="vidip21"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Faraaz22">
+            <img src="https://avatars.githubusercontent.com/u/130041060?v=4" width="100;" alt="Faraaz22"/>
+            <br />
+            <sub><b>FARAAZ MAHMOOD</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/UdaySagar-Git">
+            <img src="https://avatars.githubusercontent.com/u/111575806?v=4" width="100;" alt="UdaySagar-Git"/>
+            <br />
+            <sub><b>Uday Sagar</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators,contributors -end -->
