@@ -30,13 +30,18 @@ For more information about Hacktoberfest, please visit the official website: [Ha
 
 
 ## Make Contribution
+
+Follow the below link to redirect you to the guide on how to make a successful contribution.
 [CONTRIBUTING.md](https://github.com/Chitresh-code/DSA_Worksheet/blob/main/CONTRIBUTING.md)
 
 ## Create your own Issue
+
+If you wish to create an issue follow the below link and click on DSA Question Template
 [Create Issue!](https://github.com/Chitresh-code/DSA_Worksheet/issues/new/choose)
 
 ## Code Of Conduct
 
+Please follow the Code of Conduct.
 Click Here [CODE_OF_CONDUCT](https://www.contributor-covenant.org/)
 
 
