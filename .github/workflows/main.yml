@@ -1,7 +1,7 @@
 on:
     push:
         branches:
-            - main
+            - chitresh-code-patch-3
 
 jobs:
     contrib-readme-job:
