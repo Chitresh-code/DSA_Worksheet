@@ -61,10 +61,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/BEAST-PRINCE">
-            <img src="https://avatars.githubusercontent.com/u/98230743?v=4" width="100;" alt="BEAST-PRINCE"/>
+        <a href="https://github.com/lilmistake">
+            <img src="https://avatars.githubusercontent.com/u/61899816?v=4" width="100;" alt="lilmistake"/>
             <br />
-            <sub><b>DIVYANSHU PRINCE</b></sub>
+            <sub><b>Rohit</b></sub>
         </a>
     </td>
     <td align="center">
@@ -72,13 +72,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <img src="https://avatars.githubusercontent.com/u/129378666?v=4" width="100;" alt="Chitresh-code"/>
             <br />
             <sub><b>Chitresh Gyanani</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/lilmistake">
-            <img src="https://avatars.githubusercontent.com/u/61899816?v=4" width="100;" alt="lilmistake"/>
-            <br />
-            <sub><b>Rohit</b></sub>
         </a>
     </td>
     <td align="center">
@@ -96,27 +89,20 @@ Distributed under the MIT License. See `LICENSE` for more information.
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/its-amans">
-            <img src="https://avatars.githubusercontent.com/u/145239544?v=4" width="100;" alt="its-amans"/>
-            <br />
-            <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/AdityaDKale">
             <img src="https://avatars.githubusercontent.com/u/115162556?v=4" width="100;" alt="AdityaDKale"/>
             <br />
             <sub><b>Aditya Kale</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/vidip21">
             <img src="https://avatars.githubusercontent.com/u/76873657?v=4" width="100;" alt="vidip21"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/awsmdeep">
             <img src="https://avatars.githubusercontent.com/u/89087538?v=4" width="100;" alt="awsmdeep"/>
