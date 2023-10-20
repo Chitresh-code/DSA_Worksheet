@@ -89,20 +89,27 @@ Distributed under the MIT License. See `LICENSE` for more information.
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/its-amans">
+            <img src="https://avatars.githubusercontent.com/u/145239544?v=4" width="100;" alt="its-amans"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/AdityaDKale">
             <img src="https://avatars.githubusercontent.com/u/115162556?v=4" width="100;" alt="AdityaDKale"/>
             <br />
             <sub><b>Aditya Kale</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/vidip21">
             <img src="https://avatars.githubusercontent.com/u/76873657?v=4" width="100;" alt="vidip21"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/awsmdeep">
             <img src="https://avatars.githubusercontent.com/u/89087538?v=4" width="100;" alt="awsmdeep"/>
