@@ -61,10 +61,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/lilmistake">
-            <img src="https://avatars.githubusercontent.com/u/61899816?v=4" width="100;" alt="lilmistake"/>
+        <a href="https://github.com/yanurag1414">
+            <img src="https://avatars.githubusercontent.com/u/121807496?v=4" width="100;" alt="yanurag1414"/>
             <br />
-            <sub><b>Rohit</b></sub>
+            <sub><b>ANURAG YADAV</b></sub>
         </a>
     </td>
     <td align="center">
@@ -75,10 +75,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/yanurag1414">
-            <img src="https://avatars.githubusercontent.com/u/121807496?v=4" width="100;" alt="yanurag1414"/>
+        <a href="https://github.com/lilmistake">
+            <img src="https://avatars.githubusercontent.com/u/61899816?v=4" width="100;" alt="lilmistake"/>
             <br />
-            <sub><b>ANURAG YADAV</b></sub>
+            <sub><b>Rohit</b></sub>
         </a>
     </td>
     <td align="center">
