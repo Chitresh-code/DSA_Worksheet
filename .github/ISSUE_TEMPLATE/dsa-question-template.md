@@ -1,3 +1,14 @@
+---
+name: DSA Question Template
+about: Follow this template if you want to publish a DSA Question as an issue in this
+  repository.
+title: Question Name
+labels: C++, good first issue, hacktoberfest, hacktoberfest-2023, hacktoberfest-accepted,
+  Java, python, question
+assignees: ''
+
+---
+
 ❗**Write Code in Only One Language** (CPP, C, Java, Python)
 
 ## Give File Name : <some file name> ✅ In respective language folder
