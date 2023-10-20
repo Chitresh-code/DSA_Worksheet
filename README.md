@@ -104,6 +104,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/awsmdeep">
+            <img src="https://avatars.githubusercontent.com/u/89087538?v=4" width="100;" alt="awsmdeep"/>
+            <br />
+            <sub><b>DEEPAK KUMAR DAS</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Faraaz22">
             <img src="https://avatars.githubusercontent.com/u/130041060?v=4" width="100;" alt="Faraaz22"/>
             <br />
