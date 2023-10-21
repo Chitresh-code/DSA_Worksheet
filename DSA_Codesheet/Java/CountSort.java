@@ -3,19 +3,25 @@ import java.util.*;
 public class CountSort {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter the Size of the Array :. ");
         int n = input.nextInt();
         int arr[] = new int[n];
-        System.out.println("Enter elements of the Array ("+n+") :. ");
         for(int i=0; i<n; i++){
             arr[i] = input.nextInt();
         }
-            
-        System.out.println("Array Before Sorting:-- " + java.util.Arrays.toString(arr));
+        System.out.println("Array Before Sorting:-");
+        for(int i = 0; i<n; i++){
+            System.out.print(arr[i]+" ");
+        }
+        System.out.println();
 
         countingSort(arr);
 
-        System.out.println("Array After Sorting:--  " + java.util.Arrays.toString(arr));
+
+        System.out.println("Array After Sorting:-");
+        for(int i = 0; i<n; i++){
+            System.out.print(arr[i]+" ");
+        }
+
     }
 
     public static void countingSort(int[] arr) {
