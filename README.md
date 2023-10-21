@@ -1,7 +1,5 @@
 # Hacktoberfest 2023 DSA Worksheet Repository
 
-
-
 [![STARS](https://img.shields.io/github/stars/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/stargazers)
 [![ISSUES](https://img.shields.io/github/issues/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/issues)
 [![CONTRIBUTORS](https://img.shields.io/github/contributors/Chitresh-code/DSA_Worksheet.svg)](https://github.com/Chitresh-code/DSA_Worksheet/graphs/contributors)
@@ -9,8 +7,8 @@
 ![Merged Pull Requests](https://img.shields.io/github/issues-pr-closed/Chitresh-code/DSA_Worksheet?color=success)
 ![Active Pull Requests](https://img.shields.io/github/issues-pr/Chitresh-code/DSA_Worksheet?color=blue)
 
-
 ## Introduction
+
 Welcome to the Hacktoberfest 2023 DSA Worksheet Repository! This is a collaborative space for students and developers to practice and contribute to Data Structures and Algorithms (DSA) problems.
 
 ## What is Hacktoberfest?
@@ -19,15 +17,14 @@ Hacktoberfest is an annual event encouraging open-source contributions. By parti
 
 For more information about Hacktoberfest, please visit the official website: [Hacktoberfest 2023](https://hacktoberfest.digitalocean.com/)
 
-
 ## Features
+
 - Here we upload issues on DSA problems and Algorithms everyday.
 - You can choose the language you want to contribute in.
 - The languages include C, Cpp, Java and Python.
 - You can fork this repository and merge your PR's.
 - With this we aim to let students practice and solve DSA questions everyday.
 - And students will also improve their GitHub profiles with more pull requests.
-
 
 ## Make Contribution
 
@@ -46,11 +43,8 @@ If you wish to create an issue follow the below link and click on DSA Question T
 Please follow the Code of Conduct.
 Click Here [CODE_OF_CONDUCT](https://www.contributor-covenant.org/)
 
-
-
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -130,6 +124,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <br />
             <sub><b>Uday Sagar</b></sub>
         </a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/AiyushKumar07">
+        <img src="https://avatars.githubusercontent.com/u/93203028?v=4" width="100px;" alt="your_name"/>
+        <br />
+        <sub><b>your_name</b></sub>
+    </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
