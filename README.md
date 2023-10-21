@@ -82,13 +82,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/prabhat224">
-            <img src="https://avatars.githubusercontent.com/u/112897444?v=4" width="100;" alt="prabhat224"/>
-            <br />
-            <sub><b>Prabhat Dwivedi</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/gitaditee">
             <img src="https://avatars.githubusercontent.com/u/119937632?v=4" width="100;" alt="gitaditee"/>
             <br />
@@ -101,15 +94,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/AdityaDKale">
             <img src="https://avatars.githubusercontent.com/u/115162556?v=4" width="100;" alt="AdityaDKale"/>
             <br />
             <sub><b>Aditya Kale</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/vidip21">
             <img src="https://avatars.githubusercontent.com/u/76873657?v=4" width="100;" alt="vidip21"/>
