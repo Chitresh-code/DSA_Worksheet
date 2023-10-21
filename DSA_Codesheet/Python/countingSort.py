@@ -27,6 +27,10 @@ if __name__ == "__main__":
     n = int(input("Enter the number of elements: "))
     arr = list(map(int, input(f"Enter {n} positive elements: ").split()))
 
+    print("Array Before Sorting: ")
+    print(*arr)
+
     counting_sort(arr)
 
-    print("Sorted array:", *arr)
+    print("Array After Sorting:")
+    print(*arr)
