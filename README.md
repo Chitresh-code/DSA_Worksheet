@@ -76,6 +76,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/prabhat224">
+            <img src="https://avatars.githubusercontent.com/u/112897444?v=4" width="100;" alt="prabhat224"/>
+            <br />
+            <sub><b>Prabhat Dwivedi</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/gitaditee">
             <img src="https://avatars.githubusercontent.com/u/119937632?v=4" width="100;" alt="gitaditee"/>
             <br />
@@ -88,15 +95,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/AdityaDKale">
             <img src="https://avatars.githubusercontent.com/u/115162556?v=4" width="100;" alt="AdityaDKale"/>
             <br />
             <sub><b>Aditya Kale</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/vidip21">
             <img src="https://avatars.githubusercontent.com/u/76873657?v=4" width="100;" alt="vidip21"/>
@@ -112,12 +119,27 @@ Distributed under the MIT License. See `LICENSE` for more information.
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/BEAST-PRINCE">
+            <img src="https://avatars.githubusercontent.com/u/98230743?v=4" width="100;" alt="BEAST-PRINCE"/>
+            <br />
+            <sub><b>DIVYANSHU PRINCE</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Faraaz22">
             <img src="https://avatars.githubusercontent.com/u/130041060?v=4" width="100;" alt="Faraaz22"/>
             <br />
             <sub><b>FARAAZ MAHMOOD</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/NikeshGangwar41">
+            <img src="https://avatars.githubusercontent.com/u/146576953?v=4" width="100;" alt="NikeshGangwar41"/>
+            <br />
+            <sub><b>Nikesh Gangwar</b></sub>
+        </a>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/UdaySagar-Git">
             <img src="https://avatars.githubusercontent.com/u/111575806?v=4" width="100;" alt="UdaySagar-Git"/>
