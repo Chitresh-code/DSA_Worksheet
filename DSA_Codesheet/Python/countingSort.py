@@ -1,36 +1,30 @@
-def counting_sort(arr):
-    # Find the maximum element in the array
-    max_val = max(arr)
+from typing import List
 
-    # Create a count array to store the count of each element
-    count = [0] * (max_val + 1)
-    output = [0] * len(arr)
+def sortArray(N: List[int]) -> List[int]:
+    min_val, max_val = min(N), max(N)
+    count = [0] * (max_val - min_val + 1)
 
-    # Count the occurrences of each element in the input array
-    for num in arr:
-        count[num] += 1
+    for num in N:
+        count[num - min_val] += 1
 
-    # Calculate the cumulative count
-    for i in range(1, max_val + 1):
-        count[i] += count[i - 1]
+    sorted_array = []
+    for i in range(len(count)):
+        sorted_array.extend([i + min_val] * count[i])
 
-    # Build the output array
-    for i in range(len(arr) - 1, -1, -1):
-        output[count[arr[i]] - 1] = arr[i]
-        count[arr[i]] -= 1
-
-    # Copy the sorted elements back to the original array
-    for i in range(len(arr)):
-        arr[i] = output[i]
+    return sorted_array
 
 if __name__ == "__main__":
+    # Input
     n = int(input("Enter the number of elements: "))
-    arr = list(map(int, input(f"Enter {n} positive elements: ").split()))
+    user_input = list(map(int, input("Enter the elements separated by spaces: ").split()))
 
-    print("Array Before Sorting: ")
-    print(*arr)
+    # Output the array before sorting
+    print("Array Before Sorting :-")
+    print(" ".join(map(str, user_input)))
 
-    counting_sort(arr)
+    # Sort the array
+    sorted_list = sortArray(user_input)
 
-    print("Array After Sorting:")
-    print(*arr)
+    # Output the array after sorting
+    print("Array After Sorting :-")
+    print(" ".join(map(str, sorted_list)))
