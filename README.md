@@ -152,6 +152,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <br />
             <sub><b>Uday Sagar</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Somil-Shukla">
+            <img src="https://avatars.githubusercontent.com/u/116343874?v=4" width="100;" alt="Somil-Shukla"/>
+            <br />
+            <sub><b>Somil Shukla</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
