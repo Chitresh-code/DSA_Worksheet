@@ -152,6 +152,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <br />
             <sub><b>Uday Sagar</b></sub>
         </a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/Tanishka-22">
+        <img src="https://avatars.githubusercontent.com/u/121392536?s=400&v=4" width="100px;" alt="Tanishka-22"/>
+        <br />
+        <sub><b>Tanishka Shivhare</b></sub>
+    </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
