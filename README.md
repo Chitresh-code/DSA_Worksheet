@@ -173,6 +173,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <br />
             <sub><b>Yashaswini B</b></sub>
         </a>
-    </td></tr>
-</table>
+         </td>    <td align="center">
+        <a href="https://github.com/siya100">
+            <img src="https://avatars.githubusercontent.com/u/85541510?v=4" width="100px;" alt="siya100"/>
+            <br />
+            <sub><b>siya100</b></sub>
+        </a>
+
+
+    
+
+
 <!-- readme: collaborators,contributors -end -->
