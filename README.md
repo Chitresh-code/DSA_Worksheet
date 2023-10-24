@@ -89,25 +89,39 @@ Distributed under the MIT License. See `LICENSE` for more information.
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/gitaditee">
-            <img src="https://avatars.githubusercontent.com/u/119937632?v=4" width="100;" alt="gitaditee"/>
-            <br />
-            <sub><b>Aditee </b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/its-amans">
             <img src="https://avatars.githubusercontent.com/u/145239544?v=4" width="100;" alt="its-amans"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/gitaditee">
+            <img src="https://avatars.githubusercontent.com/u/119937632?v=4" width="100;" alt="gitaditee"/>
+            <br />
+            <sub><b>Aditee </b></sub>
+        </a>
     </td></tr>
 <tr>
+    <td align="center">
+        <a href="https://github.com/Somil-Shukla">
+            <img src="https://avatars.githubusercontent.com/u/116343874?v=4" width="100;" alt="Somil-Shukla"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/AdityaDKale">
             <img src="https://avatars.githubusercontent.com/u/115162556?v=4" width="100;" alt="AdityaDKale"/>
             <br />
             <sub><b>Aditya Kale</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Nikita06211">
+            <img src="https://avatars.githubusercontent.com/u/120494269?v=4" width="100;" alt="Nikita06211"/>
+            <br />
+            <sub><b>Null</b></sub>
         </a>
     </td>
     <td align="center">
@@ -130,7 +144,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <br />
             <sub><b>DIVYANSHU PRINCE</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Faraaz22">
             <img src="https://avatars.githubusercontent.com/u/130041060?v=4" width="100;" alt="Faraaz22"/>
@@ -144,13 +159,19 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <br />
             <sub><b>Nikesh Gangwar</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/UdaySagar-Git">
             <img src="https://avatars.githubusercontent.com/u/111575806?v=4" width="100;" alt="UdaySagar-Git"/>
             <br />
             <sub><b>Uday Sagar</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/yashashwini16">
+            <img src="https://avatars.githubusercontent.com/u/107267601?v=4" width="100;" alt="yashashwini16"/>
+            <br />
+            <sub><b>Yashaswini B</b></sub>
         </a>
     </td></tr>
 </table>
