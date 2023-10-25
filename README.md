@@ -173,6 +173,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <br />
             <sub><b>Yashaswini B</b></sub>
         </a>
-    </td></tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/GovindaRohith">
+            <img src="https://avatars.githubusercontent.com/u/102508383?v=4" width="100px;" alt="GovindaRohith"/>
+            <br />
+            <sub><b>GovindaRohith</b></sub>
+        </a>
+    </td>
+    </tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
