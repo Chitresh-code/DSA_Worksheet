@@ -189,4 +189,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
         </a>
     </td></tr>
 </table>
-<!-- readme: collaborators,contributors -end -->
