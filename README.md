@@ -111,6 +111,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Raj-sharma01">
+            <img src="https://avatars.githubusercontent.com/u/114892666?v=4" width="100;" alt="Raj-sharma01"/>
+            <br />
+            <sub><b>Raj Sharma</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/AdityaDKale">
             <img src="https://avatars.githubusercontent.com/u/115162556?v=4" width="100;" alt="AdityaDKale"/>
             <br />
@@ -137,15 +144,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <br />
             <sub><b>DEEPAK KUMAR DAS</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BEAST-PRINCE">
             <img src="https://avatars.githubusercontent.com/u/98230743?v=4" width="100;" alt="BEAST-PRINCE"/>
             <br />
             <sub><b>DIVYANSHU PRINCE</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Faraaz22">
             <img src="https://avatars.githubusercontent.com/u/130041060?v=4" width="100;" alt="Faraaz22"/>
@@ -173,15 +180,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <br />
             <sub><b>Yashaswini B</b></sub>
         </a>
-         </td>    <td align="center">
-        <a href="https://github.com/siya100">
-            <img src="https://avatars.githubusercontent.com/u/85541510?v=4" width="100px;" alt="siya100"/>
+    </td>
+    <td align="center">
+        <a href="https://github.com/DebidYadav">
+            <img src="https://avatars.githubusercontent.com/u/51717897?v=4" width="100;" alt="DebidYadav"/>
             <br />
-            <sub><b>siya100</b></sub>
+            <sub><b>Debid Yadav</b></sub>
         </a>
-
-
-    
-
-
-<!-- readme: collaborators,contributors -end -->
+    </td></tr>
+</table>
