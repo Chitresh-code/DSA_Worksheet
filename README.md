@@ -96,18 +96,25 @@ Distributed under the MIT License. See `LICENSE` for more information.
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Somil-Shukla">
+            <img src="https://avatars.githubusercontent.com/u/116343874?v=4" width="100;" alt="Somil-Shukla"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/gitaditee">
             <img src="https://avatars.githubusercontent.com/u/119937632?v=4" width="100;" alt="gitaditee"/>
             <br />
             <sub><b>Aditee </b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
-        <a href="https://github.com/Somil-Shukla">
-            <img src="https://avatars.githubusercontent.com/u/116343874?v=4" width="100;" alt="Somil-Shukla"/>
+        <a href="https://github.com/Raj-sharma01">
+            <img src="https://avatars.githubusercontent.com/u/114892666?v=4" width="100;" alt="Raj-sharma01"/>
             <br />
-            <sub><b>Null</b></sub>
+            <sub><b>Raj Sharma</b></sub>
         </a>
     </td>
     <td align="center">
@@ -137,15 +144,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <br />
             <sub><b>DEEPAK KUMAR DAS</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BEAST-PRINCE">
             <img src="https://avatars.githubusercontent.com/u/98230743?v=4" width="100;" alt="BEAST-PRINCE"/>
             <br />
             <sub><b>DIVYANSHU PRINCE</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Faraaz22">
             <img src="https://avatars.githubusercontent.com/u/130041060?v=4" width="100;" alt="Faraaz22"/>
