@@ -173,6 +173,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
             <br />
             <sub><b>Yashaswini B</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/DebidYadav">
+            <img src="https://avatars.githubusercontent.com/u/51717897?v=4" width="100;" alt="DebidYadav"/>
+            <br />
+            <sub><b>Debid Yadav</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
